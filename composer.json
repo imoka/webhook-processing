@@ -1,5 +1,5 @@
 {
-    "name": "moka/processing-sync",
+    "name": "jarovit-moka/processing-sync",
     "description": "webhook processing",
     "minimum-stability": "stable",
     "license": "MIT",
@@ -7,7 +7,7 @@
         {
             "name": "Mokin Eugene",
             "email": "jereme-x@yandex.ru",
-            "homepage": "https://github.com/Moka"
+            "homepage": "https://github.com/imoka"
         }
     ],
     "require": {
